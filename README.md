@@ -1,6 +1,7 @@
 # unchained
 
  Django "unchained"... but in Nim 
+ Durāru (Akkadian) - freedom
 
 ## MVP
 - CLI App
